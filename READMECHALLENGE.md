@@ -9,3 +9,6 @@ Para poder visulizar:
 3. Calificación promedio de la tienda
 4. Productos más y menos vendidos
 5. Envío promedio por tienda
+
+Insights obtenidos:
+
