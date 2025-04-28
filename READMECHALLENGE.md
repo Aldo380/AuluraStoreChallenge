@@ -10,5 +10,3 @@ Para poder visulizar:
 4. Productos más y menos vendidos
 5. Envío promedio por tienda
 
-Insights obtenidos:
-
